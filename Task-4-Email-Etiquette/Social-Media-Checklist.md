@@ -27,4 +27,4 @@ Set app timers so social media doesn't eat up the time you need to prep for dema
 Unprofessional photos, illegal activities, or aggressive rants can easily come back to haunt you during background checks.
 
 * &#x20; **Don’t Trust Privacy Settings Implicitly:**   
-: Remember that "private" doesn't mean "permanent". Anyone can take a screenshot or download your content and share it publicly without your knowledge.
+Remember that "private" doesn't mean "permanent". Anyone can take a screenshot or download your content and share it publicly without your knowledge.
